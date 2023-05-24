@@ -1,5 +1,4 @@
 # Dictionary_Average
-# Dictionary_Mean
 
 Hackerank Test to find the Average of Students scores. Dictionary Used. Exercise in the readme file
 
